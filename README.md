@@ -5,3 +5,5 @@ My favorite hobbie is the music. I like to play guitar, keyboard, violin, drums 
 I don't have any skills or potential that I can mention, I have several interests but I don't excel in any of them. However, that doesn't bother me, I like that about myself and even though I don't have any special skills, I like to think that my attitude of wanting to learn different things is something that can help me develop in different areas. Even if it is at a low level.
 
 My principal goal for now is to be a good student. But I have any little goals beetwen this moment and my principal goal.
+
+I have a project in "Introduccion a la Programacion" asignature. Me and my teammates are "BELSTEIN". We want to make a program that, when processing a song, allows us to know the musical notes and then we can translate it into a guitar tablature format.
